@@ -1,9 +1,7 @@
 ## Factory Demo
 
-This repo illustrates two creational design patterns from the Gang of Four patterns: Factory and Singleton. 
+This repo illustrates the factory design pattern.
 The example is based on [https://refactoring.guru/design-patterns/creational-patterns](https://refactoring.guru/design-patterns/creational-patterns).
-
-## Factory Pattern
 
 Please read [https://refactoring.guru/design-patterns/factory-method](https://refactoring.guru/design-patterns/factory-method) for the problem context. You basically have a logistics app that used trucks to transport goods. Now, you want to also add sea ships as a method of transportation. 
 
